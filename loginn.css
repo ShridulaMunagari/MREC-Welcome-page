@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.login-box{
+    
+    text-align: center;
+}
+.login-form{
+    
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+.login-form input[type="submit"] {
+        padding: 8px 16px;
+        font-size: 14px;
+        cursor: pointer;
+}
